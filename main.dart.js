@@ -36784,7 +36784,7 @@ return-1}}
 A.FF.prototype={
 P(a){var s,r,q,p=null,o=t.w,n=A.c1(a,p,o).w,m=A.c1(a,p,o).w,l=A.c1(a,p,o).w
 o=A.c1(a,p,o).w
-s=A.a([A.B3(p,A.a6z(A.aak("https://loleyman.github.io/chatoyant/images/0.png"),"chatoyant1"),B.ap,!1,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,new A.a_s(a),p,p,p,p,p,p,!1,B.cC)],t.F)
+s=A.a([A.B3(p,A.a6z(A.aak("https://loleyman.github.io/chatoyant/assets/images/0.png"),"chatoyant1"),B.ap,!1,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,new A.a_s(a),p,p,p,p,p,p,!1,B.cC)],t.F)
 r=A.aM([null,0],t.st,t.S)
 q=p
 return A.a6O(A.abo(new A.B9(new A.Yv(2,10,10,1),new A.Yr(!0,!0,!0,s,r),new A.bn(n.a.a*0.06,l.a.b*0.05,m.a.a*0.06,o.a.b*0.05),B.b3,!1,p,!1,q,!1,p,1,B.ap,B.E6,p,B.aJ,p),new A.pD(B.zP,p,p)))}}
