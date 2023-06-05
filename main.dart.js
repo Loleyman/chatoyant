@@ -36801,7 +36801,7 @@ A.MQ.prototype={
 aK(){A.ET(B.G0)
 this.bb()},
 P(a){var s=null,r=t.F
-return A.a6O(A.abo(A.um(B.c_,A.a([A.zG(s,A.um(B.c_,A.a([A.a6z(A.zG(s,new A.r_(A.aak("https://loleyman.github.io/chatoyant/images/"+this.d+".png"),s),s,s,1/0,s,s,1/0),"chatoyant1"),A.Oj(A.WT(A.a([A.a6C(s,A.a6B(B.ye,s),new A.a4z(this),s,s),A.a6C(s,A.a6B(B.yf,s),new A.a4A(this),s,s)],r),B.fF,B.fH),s,s)],r),B.cW),s,s,1/0,s,s,1/0),new A.yr(B.v7,new A.a4B(a),s,s,s)],r),B.cW),s))}}
+return A.a6O(A.abo(A.um(B.c_,A.a([A.zG(s,A.um(B.c_,A.a([A.a6z(A.zG(s,new A.r_(A.aak("https://loleyman.github.io/chatoyant/assets/images/"+this.d+".png"),s),s,s,1/0,s,s,1/0),"chatoyant1"),A.Oj(A.WT(A.a([A.a6C(s,A.a6B(B.ye,s),new A.a4z(this),s,s),A.a6C(s,A.a6B(B.yf,s),new A.a4A(this),s,s)],r),B.fF,B.fH),s,s)],r),B.cW),s,s,1/0,s,s,1/0),new A.yr(B.v7,new A.a4B(a),s,s,s)],r),B.cW),s))}}
 A.a4z.prototype={
 $0(){var s=this.a
 s.aA(new A.a4y(s))},
