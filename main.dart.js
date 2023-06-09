@@ -39226,7 +39226,7 @@ $1(a){var s,r=null,q=t.w,p=A.b_(a,r,q).w
 p=A.eX(A.tk("https://loleyman.github.io/chatoyant/assets/step1.jpg"),p.a.b*0.35,r)
 q=A.b_(a,r,q).w
 s=t.E
-return new A.nk(B.wm,A.BC(A.a([A.vi(A.a([new A.iz(1,B.cC,p,r),new A.iz(1,B.cC,A.eX(A.tk("https://loleyman.github.io/chatoyant/assets/step2.jpg"),q.a.b*0.35,r),r)],s),B.pG,B.bH),B.FQ,B.Nl],s),B.dO,B.bG,B.d0),A.a([new A.H7(new A.a2J(a),r,r,r,r,B.G,r,!1,r,B.Ng,r)],s),r)},
+return new A.nk(B.wm,A.BC(A.a([A.vi(A.a([new A.iz(1,B.cC,p,r),new A.iz(1,B.cC,A.eX(A.tk("https://loleyman.github.io/chatoyant/assets/step2.jpg"),q.a.b*0.35,r),r)],s),B.pG,B.bH),B.FQ,B.Nm],s),B.dO,B.bG,B.d0),A.a([new A.H7(new A.a2J(a),r,r,r,r,B.G,r,!1,r,B.Ng,r)],s),r)},
 $S:356}
 A.a2J.prototype={
 $0(){var s,r=this.a
@@ -39326,7 +39326,7 @@ n.uQ("spotiEmbed3",new A.a8t(s),!0)
 n.uQ("spotiEmbed4",new A.a8u(s),!0)
 s.z.nH("setReleaseMode",A.aE(["releaseMode",B.eF.D()],t.N,t.z))
 s.b9()},
-K(a9){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0=this,a1=null,a2="https://loleyman.github.io/chatoyant/pages/",a3=A.a20(a1,new A.w(A.M(A.y(B.pN),4294945600,B.hA,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a)),!0),a4=A.TH(!0,a1,!0,!0,a1,a1,!1),a5=t.E,a6=A.ag7(A.a([A.iI(B.aM,B.AG,new A.a88(a0),B.Nn),A.iI(B.aM,B.AV,new A.a89(a0),B.Ni),A.iI(B.aM,B.AS,new A.a8a(a0),B.No),A.iI(B.aM,B.AJ,new A.a8j(a0),B.Nk),A.iI(B.aM,B.AP,new A.a8k(a0),B.Nm),A.iI(B.aM,B.AW,new A.a8l(a0),B.Nr),A.iI(B.aM,B.AF,new A.a8m(a0),B.Nh),A.iI(B.aM,B.AM,new A.a8n(a0),B.Ns),A.iI(B.aM,B.AH,new A.a8o(a0),B.Nj),A.iI(B.aM,B.AK,new A.a8p(a0),B.Nq)],a5),B.al,a1,B.at),a7=t.w,a8=A.b_(a9,a1,a7).w
+K(a9){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0=this,a1=null,a2="https://loleyman.github.io/chatoyant/pages/",a3=A.a20(a1,new A.w(A.M(A.y(B.pN),4294945600,B.hA,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a)),!0),a4=A.TH(!0,a1,!0,!0,a1,a1,!1),a5=t.E,a6=A.ag7(A.a([A.iI(B.aM,B.AG,new A.a88(a0),B.No),A.iI(B.aM,B.AV,new A.a89(a0),B.Ni),A.iI(B.aM,B.AS,new A.a8a(a0),B.Np),A.iI(B.aM,B.AJ,new A.a8j(a0),B.Nl),A.iI(B.aM,B.AP,new A.a8k(a0),B.Nn),A.iI(B.aM,B.AW,new A.a8l(a0),B.Nr),A.iI(B.aM,B.AF,new A.a8m(a0),B.Nh),A.iI(B.aM,B.AM,new A.a8n(a0),B.Ns),A.iI(B.aM,B.AH,new A.a8o(a0),B.Nj),A.iI(B.aM,B.AK,new A.a8p(a0),B.Nq)],a5),B.al,a1,B.at),a7=t.w,a8=A.b_(a9,a1,a7).w
 a8=A.ra(A.acm(new A.o5(B.Fz,A.b_(a9,a1,a7).w.a.a*0.2,a8.a.b*0.2,a1),0.5),a1,a1)
 s=a0.Q
 r=a0.d
@@ -70118,8 +70118,8 @@ B.ux=J.Fa.prototype
 B.ig=J.i5.prototype
 B.PD=new A.PU(0,"unknown")
 B.iF=new A.dp(0,-1)
-B.Np=new A.dz("Important! If you're using iOS, do these steps.",null,null,null,null)
-B.wm=new A.dn(B.iF,null,null,B.Np,null)
+B.Nk=new A.dz("Important! If you're using iOS, follow these steps.",null,null,null,null)
+B.wm=new A.dn(B.iF,null,null,B.Nk,null)
 B.iB=new A.eC(0,1)
 B.iC=new A.eC(0,-1)
 B.iD=new A.eC(1,0)
@@ -72548,11 +72548,11 @@ B.Ng=new A.dz("OK",null,null,null,null)
 B.Nh=new A.dz("Film",null,null,null,null)
 B.Ni=new A.dz("Music",null,null,null,null)
 B.Nj=new A.dz("Books",null,null,null,null)
-B.Nk=new A.dz("Art",null,null,null,null)
-B.Nl=new A.dz("Due to an unknown problem, iOS users must set their browsers to Desktop Mode to use this app. Sorry for the inconvenience.",null,null,null,null)
-B.Nm=new A.dz("Psychology and Theatre",null,null,null,null)
-B.Nn=new A.dz("Sport",null,null,null,null)
-B.No=new A.dz("Trip",null,null,null,null)
+B.Nl=new A.dz("Art",null,null,null,null)
+B.Nm=new A.dz("Due to an unknown problem, iOS users must set their browsers to Desktop Mode to use this app. Sorry for the inconvenience.",null,null,null,null)
+B.Nn=new A.dz("Psychology and Theatre",null,null,null,null)
+B.No=new A.dz("Sport",null,null,null,null)
+B.Np=new A.dz("Trip",null,null,null,null)
 B.Nq=new A.dz("Earthquake",null,null,null,null)
 B.Nr=new A.dz("Lifelong Learning",null,null,null,null)
 B.Ns=new A.dz("Science",null,null,null,null)
